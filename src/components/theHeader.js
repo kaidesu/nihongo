@@ -8,7 +8,7 @@ export default function TheHeader({ children }) {
 
         <div className="space-x-3">
           <Link href="/"><a className="font-bold hover:bg-gray-200 text-gray-900 px-4 py-2 rounded-md">Home</a></Link>
-          {/* <Link href="/"><a className="font-bold hover:bg-gray-200 text-gray-900 px-4 py-2 rounded-md">Conjugation</a></Link> */}
+          <Link href="/dashboard"><a className="font-bold hover:bg-gray-200 text-gray-900 px-4 py-2 rounded-md">Dashboard</a></Link>
         </div>
       </div>
     </>
