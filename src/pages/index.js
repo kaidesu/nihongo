@@ -6,7 +6,7 @@ export default function Home() {
     <div className="flex flex-col justify-center items-center h-full">
       <div className="max-w-4xl text-center">
         <div className="w-[250px] mx-auto">
-          <Image src={image} />
+          <Image src={image} alt="Tokyo Tower"/>
         </div>
         <h1 className="text-8xl font-extrabold leading-tight">
           日本語
