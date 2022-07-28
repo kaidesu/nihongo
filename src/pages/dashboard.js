@@ -21,7 +21,7 @@ export default function Home() {
 
             <div className="absolute bottom-0 inset-x-0 bg-gray-50 px-4 py-4 sm:px-6">
               <div className="text-sm">
-                <a href="#" className="font-medium text-sky-600 hover:text-sky-500"> View all<span className="sr-only"> Total Subscribers stats</span></a>
+                <Link href="/radicals"><a className="font-medium text-sky-600 hover:text-sky-500"> View all<span className="sr-only"> Total Subscribers stats</span></a></Link>
               </div>
             </div>
           </dd>

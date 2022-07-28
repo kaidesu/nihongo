@@ -28,5 +28,55 @@
                 "lesson": 1
             }
         ]
+    },
+    {
+        "radical": "十",
+        "meaning": "Cross",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 1
+            }
+        ]
+    },
+    {
+        "radical": "丶",
+        "meaning": "Drop",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 1
+            }
+        ]
+    },
+    {
+        "radical": "入",
+        "meaning": "Enter",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 1
+            }
+        ]
+    },
+    {
+        "radical": "ハ",
+        "meaning": "Fins",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 1
+            }
+        ]
+    },
+    {
+        "radical": "一",
+        "meaning": "Ground",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 1
+            }
+        ]
     }
 ]

@@ -196,5 +196,115 @@
                 "lesson": 1
             }
         ]
+    },
+    {
+        "kanji": "玉",
+        "meaning": "ball",
+        "onyomi": "たま",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "本",
+        "meaning": "book",
+        "onyomi": "ほん",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "子",
+        "meaning": "child",
+        "onyomi": "し",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "丸",
+        "meaning": "circle",
+        "onyomi": "まる",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "正",
+        "meaning": "correct",
+        "onyomi": "せい",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "土",
+        "meaning": "dirt",
+        "onyomi": "ど",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "犬",
+        "meaning": "dog",
+        "onyomi": "いぬ",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "夕",
+        "meaning": "evening",
+        "onyomi": "ゆう",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "出",
+        "meaning": "exit",
+        "onyomi": "しゅつ",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
+    },
+    {
+        "kanji": "目",
+        "meaning": "eye",
+        "onyomi": "め",
+        "sources": [
+            {
+                "name": "WaniKani",
+                "lesson": 2
+            }
+        ]
     }
 ]
